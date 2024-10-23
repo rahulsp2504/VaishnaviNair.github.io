@@ -202,7 +202,7 @@ languages:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
+publications:
   - title: Deep Sequence Models for Ligand-based Virtual Screening
     url: https://doi.org/10.1142/S2737416522500107
     date: '2022-02-01'
