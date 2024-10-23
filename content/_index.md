@@ -24,9 +24,10 @@ sections:
         filename: purdue.jpg
       biography:
         # Customize the style of your biography text
+        button:
+          style: 'font-size: 5em; padding: 50px 70px; background-color: #78888a; color: red; border-radius: 5px;'
         style: 'text-align: justify; font-size: 0.8em;'
-      button:
-        style: 'font-size: 5em; padding: 50px 70px; background-color: #78888a; color: red; border-radius: 5px;'
+      
   - block: experience
     content:
       username: admin
