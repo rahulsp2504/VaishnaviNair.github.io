@@ -18,7 +18,6 @@ sections:
       button:
         text: Download Résumé
         url: uploads/resume.pdf
-        style: 'font-size: 4em; padding: 30px 50px; background-color: #78888a; color: white; border-radius: 5px;'
     design:
       banner:
         # Upload your cover image to the `assets/media/` folder and reference it here
@@ -26,6 +25,8 @@ sections:
       biography:
         # Customize the style of your biography text
         style: 'text-align: justify; font-size: 0.8em;'
+      button:
+        style: 'font-size: 1.2em; padding: 10px 20px; background-color: #78888a; color: white; border-radius: 5px;'
   - block: experience
     content:
       username: admin
