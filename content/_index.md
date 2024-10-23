@@ -39,7 +39,7 @@ sections:
     content:
       title: Skills
       username: admin
-  - block: publications
+  - block: awards
     content:
       title: Publications
       username: admin
