@@ -33,6 +33,11 @@ profiles:
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/vaishnavi-sudheer/
 
+resume:
+  - button:
+    text: Download Résumé
+    url: uploads/resume.pdf
+
 education:
   - area: Masters in Engineering Management
     institution: Purdue University
