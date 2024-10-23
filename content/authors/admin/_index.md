@@ -213,4 +213,16 @@ awards:
  
 ---
 
+👋 Hey there! I'm Vaishnavi (Vaish), an Engineering Management Student on a mission to build awesome things that make life easier and more exciting.
+I thrive at the intersection of technology and management, with a background in software engineering and my interest in helping people be their best version. I also love turning ideas into impactful, user-friendly products. Discovering the Master’s in Engineering Management degree was super exciting for me, as this is the path that will help me follow the stuff I enjoy as a career. (Do what you love and love what you do right?)
+I'm passionate about: <br> 
+💡 Driving innovation in tech <br>
+🤝 Building products that users can't live without <br>
+🔄 Continuous learning and collaboration <br>
+When I'm not solving tech puzzles, you can find me: <br>
+🎮 Enjoying a good puzzle-solving game <br>
+📚 Learning random trivia <br>
+🍴 Trying out different food( cooking or eating out) <br>
+🎬 Watching some new show or movie and googling its cast and plot theories <br>
+Let's connect and talk about Product Management, your favorite place to eat, or even the latest best thing you watched! <br>
 I am currently seeking internship/co-op in Spring, Summer, Fall 2025 to leverage my techno-managerial skills from 3 years' experience to drive impactful projects within dynamic teams and deliver innovative customer-centric products in fast-paced environments.
