@@ -26,7 +26,7 @@ sections:
         # Customize the style of your biography text
         style: 'text-align: justify; font-size: 0.8em;'
       button:
-        style: 'font-size: 1.2em; padding: 10px 20px; background-color: #78888a; color: white; border-radius: 5px;'
+        style: 'font-size: 5em; padding: 50px 70px; background-color: #78888a; color: red; border-radius: 5px;'
   - block: experience
     content:
       username: admin
