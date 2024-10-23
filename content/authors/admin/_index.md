@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Vaishnavi
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Vaishnavi Sudheer Nair
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Vaishnavi
+last_name: Nair
 
 # Status emoji
 status:
@@ -17,83 +17,78 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Director of Cloud Infrastructure
+role: Masters in Engineering Management
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: GenCoin
-    url: https://www.example.com/
+  - name: Purdue University
+    url: https://www.purdue.edu/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:vaish.sudheernair@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/github
-    url: https://github.com/gcushen
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.linkedin.com/in/vaishnavi-sudheer/
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Masters in Engineering Management
+    institution: Purdue University
+    date_start: 2024-08-01
+    date_end: ''
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+      GPA: 4.0/4.0
+
+      Technical Project Manager, Bayer SISTAC (Experiential learning); Building a data-driven decision-making dashboard, identifying KPI’s and leveraging AI for transforming the service providing online healthcare at a start-up.
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      - Risk Analysis and Management
+      - Project Management
+      - Marketing Management
+  - area: B.Tech Computer Science and Engineering
+    institution: National Institute of Technology (NIT) Calicut
+    date_start: 2017-07-01
+    date_end: 2021-05-01
     summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      GPA: 7.99/10.0
+
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Product Engineer
+    company_name: Target Corporation
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2021-08-01
+    date_end: 2024-07-01
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+      - Led a team of 6 to develop an HR MVP, utilizing Agile methodologies for task assignment and PRD creation.
+      - Acted as Scrum Master, facilitating sprint ceremonies to deliver in-house applications, saving $500,000 annually by replacing third-party software.
+      - Spearheaded security initiatives, collaborating with teams to automate endpoint vulnerability management, saving 14 man-hours monthly.
+      - Optimized code structure, reducing issue resolution time by 5% and enhancing production support efficiency during peak sales.
+      - Prioritized feature rollouts, improved UI/UX, and built APIs, managing the product lifecycle while aligning with stakeholders on vision.
+      - Organized team-building initiatives to enhance interdepartmental collaboration and foster an inclusive tech community for women.
+  - position: Software Engineering Intern
+    company_name: Fidelity Investments
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2020-05-01
+    date_end: 2020-06-01
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Created a reusable and scalable batch pipeline for Grafana dashboards, automating CSV data extraction and visualization, reducing analysis time to one click.
+      - Collaborated with the Personalization Business Unit to support multiple applications, ensuring seamless integration and optimizing performance for enhanced UX and operational efficiency.
+  - position: Student Intern
+    company_name: Daman Insurance
+    company_url: ''
+    company_logo: ''
+    date_start: 2019-05-01
+    date_end: 2019-07-01
+    summary: |
+      Responsibilities include:
+      - Collaborated with IT Security on a CMDB project, developing a Python tool to convert XML files to Excel and improving efficiency by 10%.
+      - Worked with the IT Service Desk, CMDB team, and IT Access Management to enhance cross-functional understanding and project alignment.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
