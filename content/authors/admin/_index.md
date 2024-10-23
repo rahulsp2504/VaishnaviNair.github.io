@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Vaishnavi
+title: Vaishnavi Sudheer Nair
 
 # Name pronunciation (optional)
-name_pronunciation: Vaishnavi Sudheer Nair
+# name_pronunciation: Vaishnavi Sudheer Nair
 
 # Full name (for SEO)
 first_name: Vaishnavi
