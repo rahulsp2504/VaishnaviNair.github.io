@@ -92,37 +92,81 @@ work:
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
-# skills:
-#   - name: Technical Skills
-#     items:
-#       - name: Python
-#         description: ''
-#         percent: 80
-#         icon: devicon/python
-#       - name: RStudio
-#         description: ''
-#         percent: 100
-#         icon: devicon/rstudio
-#       - name: PyTorch
-#         description: ''
-#         percent: 40
-#         icon: devicon/pytorch
-#   - name: Hobbies
-#     color: '#eeac02'
-#     color_border: '#f0bf23'
-#     items:
-#       - name: Hiking
-#         description: ''
-#         percent: 60
-#         icon: person-simple-walk
-#       - name: Cats
-#         description: ''
-#         percent: 100
-#         icon: cat
-#       - name: Photography
-#         description: ''
-#         percent: 80
-#         icon: camera
+skills:
+  - name: Technical Skills
+    items:
+      - name: Jira
+        description: ''
+        # percent: 80
+        icon: devicon/jira
+      - name: Confluence
+        description: ''
+        # percent: 100
+        icon: devicon/confluence
+      - name: MS Project
+        description: ''
+        # percent: 40
+        icon: devicon/microsoftsqlserver
+      - name: Grafana
+        description: ''
+        # percent: 40
+        icon: devicon/grafana
+      - name: Postgres
+        description: ''
+        # percent: 40
+        icon: devicon/postgresql
+      - name: MySql
+        description: ''
+        # percent: 40
+        icon: devicon/mysql
+      - name: Database Management
+        description: ''
+        # percent: 40
+        icon: devicon/azuresqldatabase
+      - name: C/C++
+        description: ''
+        # percent: 40
+        icon: devicon/cplusplus
+      - name: Java
+        description: ''
+        # percent: 40
+        icon: devicon/java
+      - name: React JS
+        description: ''
+        # percent: 40
+        icon: devicon/react
+      - name: Python
+        description: ''
+        # percent: 40
+        icon: devicon/python
+  - name: Business Skills
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+      - name: Agile Scrum
+        description: ''
+        # percent: 60
+        # icon: person-simple-walk
+      - name: Risk Management
+        description: ''
+        # percent: 100
+        # icon: cat
+      - name: Stakeholder Management
+        description: ''
+        # percent: 80
+        # icon: camera
+      - name: Conflict Resolution
+        description: ''
+        # percent: 80
+        # icon: camera
+      - name: Team Collaboration
+        description: ''
+        # percent: 80
+        # icon: camera
+      - name: Problem Solving
+        description: ''
+        # percent: 80
+        # icon: camera
 
 languages:
   - name: English
