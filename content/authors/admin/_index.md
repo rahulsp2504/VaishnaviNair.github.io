@@ -168,23 +168,23 @@ skills:
         # percent: 80
         # icon: camera
       - name: ''
-        description: ''
+        description: ' '
         # percent: 80
         # icon: camera
       - name: ''
-        description: ''
+        description: ' '
         # percent: 80
         # icon: camera
       - name: ''
-        description: ''
+        description: ' '
         # percent: 80
         # icon: camera
       - name: ''
-        description: ''
+        description: ' '
         # percent: 80
         # icon: camera
       - name: ''
-        description: ''
+        description: ' '
         # percent: 80
         # icon: camera
 
