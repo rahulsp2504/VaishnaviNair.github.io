@@ -12,10 +12,10 @@ design:
 # Page sections
 sections:
   - block: biography
-    button:
-      text: Download Résumé
-      url: uploads/resume.pdf
     content:
+      button:
+        text: Download Résumé
+        url: uploads/resume.pdf
       username: admin
       # Show a call-to-action button under your biography? (optional)
     design:
