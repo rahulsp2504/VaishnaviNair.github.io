@@ -167,6 +167,26 @@ skills:
         description: ''
         # percent: 80
         # icon: camera
+      - name: ''
+        description: ''
+        # percent: 80
+        # icon: camera
+      - name: ''
+        description: ''
+        # percent: 80
+        # icon: camera
+      - name: ''
+        description: ''
+        # percent: 80
+        # icon: camera
+      - name: ''
+        description: ''
+        # percent: 80
+        # icon: camera
+      - name: ''
+        description: ''
+        # percent: 80
+        # icon: camera
 
 languages:
   - name: English
