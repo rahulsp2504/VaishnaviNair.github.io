@@ -18,6 +18,7 @@ sections:
       button:
         text: Download Résumé
         url: uploads/resume.pdf
+        style: 'font-size: 1.2em; padding: 10px 20px;'
     design:
       banner:
         # Upload your cover image to the `assets/media/` folder and reference it here
