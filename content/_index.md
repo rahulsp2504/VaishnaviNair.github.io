@@ -14,19 +14,18 @@ sections:
   - block: biography
     content:
       username: admin
-      # Show a call-to-action button under your biography? (optional)
+      # Place the button content first to appear above the biography
       button:
         text: Download Résumé
         url: uploads/resume.pdf
     design:
       banner:
-        # Upload your cover image to the `assets/media/` folder and reference it here
         filename: purdue.jpg
       biography:
-        # Customize the style of your biography text
-        button:
-          style: 'font-size: 5em; padding: 50px 70px; background-color: #78888a; color: red; border-radius: 5px;'
+        # Move biography styling below the button
         style: 'text-align: justify; font-size: 0.8em;'
+      button:
+        style: 'font-size: 1.2em; padding: 10px 20px; background-color: #78888a; color: white; border-radius: 5px;'
       
   - block: experience
     content:
