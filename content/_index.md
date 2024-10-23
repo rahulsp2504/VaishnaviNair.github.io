@@ -11,21 +11,21 @@ design:
 
 # Page sections
 sections:
-  - block: biography
+  - block: button # New button block
     content:
-      username: admin
-      # Place the button content first to appear above the biography
       button:
         text: Download Résumé
         url: uploads/resume.pdf
     design:
-      banner:
-        filename: purdue.jpg
-      biography:
-        # Move biography styling below the button
-        style: 'text-align: justify; font-size: 0.8em;'
       button:
         style: 'font-size: 1.2em; padding: 10px 20px; background-color: #78888a; color: white; border-radius: 5px;'
+  
+  - block: biography # Biography block below button
+    content:
+      username: admin
+    design:
+      biography:
+        style: 'text-align: justify; font-size: 0.8em;'
       
   - block: experience
     content:
